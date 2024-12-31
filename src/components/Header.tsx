@@ -17,7 +17,7 @@ export const Header = () => {
         {/* Right Section */}
         <div className="bg-white rounded-full p-1">
           <img
-            src="https://ibb.co/QjTYgYZ"
+            src="https://i.postimg.cc/3xPzgYsY/new-logo.png"
             alt="Logo"
             className="w-20 h-20 object-cover rounded-full"
           />
